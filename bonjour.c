@@ -1,2 +1,2 @@
 exemple
-git push --set-upstream origin git-exercice
+git push --set-upstream origin git-exercicegit log 
