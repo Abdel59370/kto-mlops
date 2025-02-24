@@ -1,4 +1,5 @@
 boto3
-tensorflow 
-matplotlib 
+tensorflow
+matplotlib
 scipy
+mlflow
